@@ -70,14 +70,11 @@ object **VICTOR** {
   <a href="https://www.instagram.com/victorxm__/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/victorxm__/"/></a>
 
-  <a href="#" alt="Twitch">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=#"/></a>
+  <a href="https://www.twitch.tv/victorxm__" alt="Twitch">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/victorxm__"/></a>
 
-  <a href="#" alt="Xbox">
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white&link=#"/></a>
-
-  <a href="#" alt="Steam">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=#"/></a>
+  <a href="https://steamcommunity.com/id/victorxm__/" alt="Steam">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/victorxm__/"/></a>
 
   
 </p>
