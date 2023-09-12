@@ -1,6 +1,7 @@
 # Oie devs 👋
 
-Sou apenas um técnico em Informática para Internet, que atualmente cursa ADS pelo Instituto Federal de São Paulo. Gosto de criar softwares que auxiliem seus usuários.
+Sou apenas um técnico em Informática para Internet, que atualmente cursa ADS pelo Instituto Federal de São Paulo. Sou apaixonado por futebol, falo muito disso no Twitter e na Twitch.
+Tenho interesse em criar softwares que auxiliem seus usuários a resolver algum problema.
 
 ## Mais sobre mim
 
