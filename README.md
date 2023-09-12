@@ -32,6 +32,8 @@ object **VICTOR** {
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
 
 ## Sistemas Operacionais Utilizados
