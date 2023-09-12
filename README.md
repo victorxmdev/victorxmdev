@@ -76,5 +76,9 @@ object **VICTOR** {
   <a href="https://steamcommunity.com/id/victorxm__/" alt="Steam">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/victorxm__/"/></a>
 
+<a href="https://boxd.it/1sOfL" alt="Letterboxd">
+<img src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white&link="https://boxd.it/1sOfL"/></a>
+
+
   
 </p>
