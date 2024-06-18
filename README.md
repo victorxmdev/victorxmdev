@@ -1,4 +1,4 @@
-# Oii devs 👋
+# Uma mini biografia:
 
 Sou apenas um técnico em Informática para Internet, que atualmente cursa ADS pela Unicsul Virtual, porém iniciei o curso no Instituto Federal de São Paulo. Sou apaixonado por futebol, falo muito disso no Twitter e na Twitch.
 Tenho interesse em criar softwares que auxiliem seus usuários a resolver algum problema.
