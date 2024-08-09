@@ -1,16 +1,16 @@
 # Uma mini biografia:
 
-Sou apenas um técnico em Informática para Internet, que atualmente cursa ADS pela Unicsul Virtual, porém iniciei o curso no Instituto Federal de São Paulo. Sou apaixonado por futebol, falo muito disso no Twitter e na Twitch.
+Sou apenas um técnico em Informática para Internet, que atualmente cursa Bacharel em Tecnologia da Informação pela UNIVESP. Sou apaixonado por futebol, falo muito disso no Twitter e na Twitch.
 Tenho interesse em criar softwares que auxiliem seus usuários a resolver algum problema.
 
 ## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
+```java
 object **VICTOR** {
  val name = "VICTOR MAGALHÃES"
- val acknowledgements = "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS"
+ val acknowledgements = "Tecnologia da Informação"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Java", "PHP", "Laravel", "Bootstrap", "Tailwind")
@@ -40,15 +40,6 @@ object **VICTOR** {
 
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
-
-
-
-## Linguagens e ferramentas que tenho interesse em aprender (logo estarei publicando códigos utilizando elas):
-
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
 
 
