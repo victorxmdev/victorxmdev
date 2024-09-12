@@ -1,6 +1,6 @@
 # Uma mini biografia:
 
-Sou apenas um técnico em Informática para Internet, que atualmente cursa Bacharel em Tecnologia da Informação pela UNIVESP. Sou apaixonado por futebol, falo muito disso no Twitter e na Twitch.
+Sou apenas um técnico em Informática para Internet, que atualmente cursa Bacharel em Tecnologia da Informação pela UNIVESP. Sou apaixonado por futebol, falava muito disso no finado Twitter/X e na Twitch.
 Tenho interesse em criar softwares que auxiliem seus usuários a resolver algum problema.
 
 ## Mais sobre mim
@@ -65,8 +65,6 @@ object **VICTOR** {
 
 
 <p align="left">
-  <a href="https://twitter.com/victorxm__" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/victorxm__" /></a>
 
   <a href="https://www.linkedin.com/in/victor-santosmagalhaes/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-santosmagalhaes/" /></a>
