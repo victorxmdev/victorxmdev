@@ -1,9 +1,9 @@
 # Uma mini biografia:
 
 Sou apenas um técnico em Informática para Internet, que atualmente cursa Bacharel em Tecnologia da Informação pela UNIVESP. Sou apaixonado por futebol, falava muito disso no finado Twitter/X e na Twitch.
-Tenho interesse em criar softwares que auxiliem seus usuários a resolver algum problema.
+Tenho interesse em criar softwares que auxiliem seus usuários a resolver algum b.o.
 
-## Mais sobre mim
+## Codigo fake:
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -18,7 +18,9 @@ object **VICTOR** {
 }
 ```
 
-## Linguagens e ferramentas conhecidas:
+## Linguagens e ferramentas que já usei em pelo menos algum projeto (nem todos estão aqui):
+
+Obs: To focando em aprender desenvolvimento mobile, já que as vagas que usam Js tem mt concorrência pra pouca vaga.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -29,7 +31,9 @@ object **VICTOR** {
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
-## Softwares Utilizados
+## Softwares que utilizo de vez em quando:
+
+Obs: sou fã da Jetbrains mesmo os apps deles serem pesados 
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white">
@@ -37,7 +41,9 @@ object **VICTOR** {
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
 
-## Sistemas Operacionais Utilizados
+## Sistemas operacionais que já usei e recomendo:
+
+Obs: nunca usei Mac por motivos de não tenho dinheiro, Swift me parecer difícil e precisar de um Mac pra programar (que é caro e insustentável pra contornar essa exigência)
 
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -55,7 +61,6 @@ object **VICTOR** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorxmdev&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[twitter]: https://twitter.com/victorxm__
 [instagram]: https://www.instagram.com/victorxm__/
 [linkedin]: https://www.linkedin.com/in/victor-santosmagalhaes/
 
