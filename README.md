@@ -1,7 +1,8 @@
 # Uma mini biografia:
 
 Sou formado como técnico em Informática para Internet, que atualmente cursa Bacharel em Tecnologia da Informação pela UNIVESP.
-Tenho interesse em criar softwares que auxiliem seus usuários a resolver algum b.o.
+Tenho interesse em resolver problemas relacionados ao esporte ou que auxiliem as pessoas de alguma forma. 
+Atualmente sou estagiário de Análise de Desempenho da Portuguesa SAF.
 
 ## Linguagens e ferramentas que já usei em pelo menos algum projeto (nem todos estão aqui):
 
@@ -30,7 +31,6 @@ Tenho interesse em criar softwares que auxiliem seus usuários a resolver algum 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
 
-
 ## Status
 
 <a href="https://github.com/Gurupreet">
@@ -41,7 +41,7 @@ Tenho interesse em criar softwares que auxiliem seus usuários a resolver algum 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorxmdev&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[instagram]: https://www.instagram.com/victorxm__/
+[instagram]: https://www.instagram.com/victormagalhaes14/
 [linkedin]: https://www.linkedin.com/in/victor-santosmagalhaes/
 
 <br>
@@ -55,14 +55,7 @@ Tenho interesse em criar softwares que auxiliem seus usuários a resolver algum 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-santosmagalhaes/" /></a>
 
   <a href="https://www.instagram.com/victorxm__/" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/victorxm__/"/></a>
-
-  <a href="https://steamcommunity.com/id/victorxm__/" alt="Steam">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/victorxm__/"/></a>
-
-<a href="https://boxd.it/1sOfL" alt="Letterboxd">
-<img src="https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white&link="https://boxd.it/1sOfL"/></a>
-
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/victormagalhaes14/"/></a>
 
   
 </p>
