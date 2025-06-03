@@ -2,6 +2,9 @@
 
 Sou formado como técnico em Informática para Internet, que atualmente cursa Bacharel em Tecnologia da Informação pela UNIVESP.
 Tenho interesse em resolver problemas relacionados ao esporte ou que auxiliem as pessoas de alguma forma. 
+
+![Lusa](https://github.com/user-attachments/assets/47425951-b899-4bab-8177-1a31209d075b)
+
 Atualmente sou estagiário de Análise de Desempenho da Portuguesa SAF.
 
 ## Linguagens e ferramentas que já usei em pelo menos algum projeto (nem todos estão aqui):
