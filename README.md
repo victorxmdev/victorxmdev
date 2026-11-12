@@ -1,9 +1,8 @@
 # Uma mini biografia:
 
 Sou formado como técnico em Informática para Internet, que atualmente cursa Bacharel em Tecnologia da Informação pela UNIVESP.
-Tenho interesse em resolver problemas relacionados ao esporte ou que auxiliem as pessoas de alguma forma. 
 
-Atualmente sou estagiário de Análise de Desempenho do Juventus SAF.
+Atualmente sou Analista de Desempenho do Clube Atlético Juventus SAF.
 
 ## Linguagens e ferramentas que já usei em pelo menos algum projeto (nem todos estão aqui):
 
