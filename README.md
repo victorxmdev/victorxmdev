@@ -30,22 +30,6 @@ Atualmente sou Analista de Desempenho do Clube Atlético Juventus SAF.
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-
-## Status
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxmdev&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorxmdev&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-[instagram]: https://www.instagram.com/victormagalhaes14/
-[linkedin]: https://www.linkedin.com/in/victor-santosmagalhaes/
-
-<br>
-
 ## Rede sociais
 
 
